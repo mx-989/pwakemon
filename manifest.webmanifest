@@ -1,1 +1,0 @@
-{"name":"Pwakémon","short_name":"Pwakémon","description":"Simulateur de Capture Pokémon PWA","start_url":"/pwakemon/","display":"standalone","background_color":"#1b1d23","theme_color":"#e53935","lang":"en","scope":"/pwakemon/","icons":[{"src":"./assets/loveball.png","sizes":"80x80","type":"image/png"}]}
